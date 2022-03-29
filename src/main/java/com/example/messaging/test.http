@@ -1,0 +1,15 @@
+POST localhost:8080/messages
+Content-Type: application/json
+
+{
+   "text": "some nice message!"
+}
+
+###
+
+POST localhost:8080/messages/custom-virtual-host
+Content-Type: application/json
+
+{
+   "text": "some nice message!"
+}

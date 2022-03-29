@@ -18,7 +18,7 @@
     <jdk.version>11</jdk.version>
     <release.version>11</release.version>
     <micronaut.version>3.4.0</micronaut.version>
-    <exec.mainClass>com.example.Application</exec.mainClass>
+    <exec.mainClass>com.example.messaging.Application</exec.mainClass>
     <micronaut.runtime>netty</micronaut.runtime>
   </properties>
 
